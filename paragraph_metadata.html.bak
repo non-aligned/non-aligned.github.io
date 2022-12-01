@@ -5,12 +5,11 @@
 	<title>
 		Meta data and title
 	</title>
-	<!-- This allows Unicode characters to be used -->
 	<meta charset="utf-8" />
 </head>
 
 <body>
-	<!-- Serbia faces elimination tomorrow at 8!!!! -->
+
 	<p> Element title defines title of the HTML document. </p>
 	<p> The title is shown on the web browser's tab during browsing and during SE search. </p>
 	<p> HTML documents also have metadata. </p>
