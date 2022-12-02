@@ -34,17 +34,18 @@
 	
 	<hr /> 
 	
-	<p> Let's go Serbia! Let's go&nbsp;!<p/>
+	<p title="Friday at 20">
+	<p>Let's go Serbia! Let's go&nbsp;!</p>
 	
 	<hr /> 
 	
-	<p> Element &lt;hr&ht; represents a horizontal rule 
+	<p> Element &lt;hr&gt; represents a horizontal rule. 
 	
-	Ampersend character is &amp;
+	<p>Ampersend character is &amp;.
 	
-	Single quote or apostroph is &apos;
+	<p>Single quote or apostroph is &apos;.
 	
-	Double quote is &quot;
+	<p>Double quote is &quot;.
 
 </body>
 
