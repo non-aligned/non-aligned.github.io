@@ -80,6 +80,20 @@ Cameroon 1
 		<li>Gin</li>
 		<li>Vodka bueeeh</li>
 	</ol>
+	
+	<h2> Spirits definition </h2>
+	
+	<hr />
+	
+	<dl>
+		<dt><b>Rhum</b></dt>
+		<dd>Sugar cane marvel drink</dd>
+		<dt><b>Gin</b></dt>
+		<dd>Juniper delicacy used as an excuse to like tonic</dd>
+		<dt><b>Whiskey</b></dt>
+		<dd>Best kind of cereal</dd>
+		<dt><b>Vodka</b></dt>
+		<dd>Worst kind of potato</dd>
 </body>
 
 </html>
