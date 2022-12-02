@@ -2,21 +2,49 @@
 <html>
 
 <head>
+	
 	<title>
-		Meta data and title
+	
+	Meta data and title
+	
 	</title>
+	
 	<!-- This allows Unicode characters to be used -->
+	
 	<meta charset="utf-8" />
 </head>
 
 <body>
-	<!-- Serbia faces elimination tomorrow at 8!!!! -->
-	<h1> Element title defines title of the HTML document. </h1>
-	<h2> The title is shown on the web browser's tab during browsing and during SE search. </h2>
-	<h3> HTML documents also have metadata. </h3>
-	<h4> Metadata describes data contained within the HTML document. </h4>
-	<p> Let's go Serbia! Let's go!<p/>
 	
+	<!-- Serbia faces elimination tomorrow at 8!!!! -->
+	
+	<h1> Element title defines title of the HTML document. </h1>
+	
+	<hr />
+	
+	<h2> The title is shown on the web browser's tab during browsing and during SE search. </h2>
+	
+	<hr />
+	
+	<h3> HTML documents also have metadata. </h3>
+	
+	<hr />
+	
+	<h4> Metadata describes data contained within the HTML document. </h4>
+	
+	<hr /> 
+	
+	<p> Let's go Serbia! Let's go&nbspc;!<p/>
+	
+	<hr /> 
+	
+	<p> Element &lt;hr&ht; represents a horizontal rule 
+	
+	Ampersend character is &amp;
+	
+	Single quote or apostroph is &apos;
+	
+	Double quote is &quot;
 
 </body>
 
