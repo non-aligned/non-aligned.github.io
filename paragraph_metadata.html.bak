@@ -76,14 +76,33 @@ Cameroon 1
 
 	<ol type="I" title="ominjene zestine">
 		<li><b>Rum</b></li>
+		<ul>
+			<li> Cacique</li>
+			<li> Brugal </li>
+			<li> Barcelo </li>
+		</ul>
 		<li>Whiskey</li>
+		<ul>
+			<li> Johnnie Walker
+			<ul>
+				<li>Red Label</li>
+				<li>Black Label</li>
+			</ul>
+		</ul>
 		<li>Gin</li>
+		<ul>
+			<li>Tanqueray
+			<li>Hendricks
+		</ul>
 		<li>Vodka bueeeh</li>
+		<ul>
+			<li> We don't serve this
+		</ul>
 	</ol>
 	
-	<h2> Spirits definition </h2>
-	
 	<hr />
+	
+	<h2> Spirits definition </h2>
 	
 	<dl>
 		<dt><b>Rhum</b></dt>
