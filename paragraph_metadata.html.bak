@@ -20,22 +20,20 @@
 	
 	<h1> Element title defines title of the HTML document. </h1>
 	
-	<hr />
 	
 	<h2> The title is shown on the web browser's tab during browsing and during SE search. </h2>
 	
-	<hr />
-	
+		
 	<h3> HTML documents also have metadata. </h3>
 	
-	<hr />
-	
+		
 	<h4> Metadata describes data contained within the HTML document. </h4>
 	
 	<hr /> 
 	
 	<p title="Friday at 20:00">
-	<p>Let's go Serbia! Let's go&nbsp;!</p>
+	
+	<p>Let's go <b>Serbia!</b> Let's go&nbsp;!</p>
 	
 	<hr /> 
 	
