@@ -311,6 +311,62 @@ Cameroon 1
 				<td>France -</td>
 			</tr>
 		</table>
+
+		<hr />
+
+		<form action="procces_me.php" method="get">
+			First name:
+			<br/>
+			<input type="text" name="first_name" />
+			<br/> Last name:
+			<br/>
+			<input type="text" name="last_name" />
+			<input type="submit" />
+		</form>
+	
+		<hr />
+	
+		<p>Form is not visible.</p>
+	
+		<p>It is used to send values from browser to server.</p>
+
+		<hr />
+
+		<p>Select gender:</p>
+
+    	<form action="procces_me.php" method="get">
+        	<input type="radio" name="gender" value="male" checked /> Man
+        	<br/>
+        	<input type="radio" name="gender" value="female" /> Woman
+        	<br/>
+        	<input type="radio" name="gender" value="unknown" /> Reject to answer
+        	<br/>
+        	<br/>
+        	<input type="submit" value="Send" />
+    	</form>
+
+		<hr />
+
+		<p>What is your favorite car brand?</p>
+
+		<br />
+
+		<form action="action_page.php">
+			<select name="cars">
+				<option value="volvo">Volvo</option>
+				<option value="saab">Saab</option>
+				<option value="fiat">Fiat</option>
+				<option value="audi">Audi</option>
+				<option value="zastava">Peugeot</option>
+			</select>
+			<br/>
+			<br/>
+			<input type="submit">
+		</form>
+		
+		<hr />
+
+		<button type="button" onclick="alert ('hello World!')">Click for greeting</button>
 	
 	
 	</body>
