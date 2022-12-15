@@ -37,9 +37,10 @@ p {
  
 }
 
-p.long {
+.long {
     color: white;
-    background-color:rgb(0, 255, 0) ;
+    background-color:rgb(28, 198, 28) ;
+    text-align: justify;
 }
 
 dt {
@@ -63,7 +64,7 @@ pre {
 }
 
 kbd {
-    color:goldenrod
+    color:goldenrod;
 }
 
 form{
@@ -79,5 +80,13 @@ hr {
 }
 
 .litt {
-    color: goldenrod
+    color: goldenrod;
+}
+
+.cntr{
+    text-align: center;
+}
+
+a{
+    color: blue;
 }
